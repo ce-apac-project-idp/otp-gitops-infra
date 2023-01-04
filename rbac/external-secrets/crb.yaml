@@ -1,7 +1,7 @@
 kind: ClusterRoleBinding
 apiVersion: rbac.authorization.k8s.io/v1
 metadata:
-  name: openshift-gitops-cntk-argocd-application-controller-external-secrets
+  name: openshift-gitops-otp-argocd-application-controller-external-secrets
 subjects:
   - kind: ServiceAccount
     name: openshift-gitops-otp-argocd-application-controller
