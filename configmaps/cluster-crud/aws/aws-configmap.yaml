@@ -32,3 +32,6 @@ data:
     vendor=OpenShift
   versions: |
     4.9=img4.9.56-x86-64-appsub
+    4.10=img4.10.53-x86-64-appsub
+    4.11=img4.11.31-x86-64-appsub
+    4.12=img4.12.7-multi-appsub
